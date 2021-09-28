@@ -1,0 +1,28 @@
+.container {
+  width: 60%;
+  margin: auto;
+  border: 2px solid rgb(255, 0, 43);
+  margin-top: 2rem;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 0.3rem;
+}
+.container h3 {
+  padding: 1rem;
+  font-size: 31px;
+}
+
+.container button {
+  padding: 0.4rem;
+  margin: 1rem;
+  font-size: 17px;
+  background-color: rgb(255, 0, 43);
+  border: 0;
+  color: white;
+  cursor: pointer;
+  border-radius: 0.3rem;
+  transition: all 0.3s ease-in;
+}
+.container button:hover {
+  background-color: rgb(255, 0, 191);
+}
