@@ -10,6 +10,7 @@
 .container h3 {
   padding: 1rem;
   font-size: 31px;
+  transition: all 0.3s ease;
 }
 
 .container button {
